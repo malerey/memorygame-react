@@ -1,0 +1,43 @@
+.Game {
+  text-align: center;
+}
+
+.Game-header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.Game-title {
+  font-size: 1.5em;
+}
+
+.Game-status {
+  padding: 20px;  
+}
+
+.Game-intro {
+  font-size: large;
+}
+
+.CardContainer {
+  width:800px;
+  margin-left:20%;
+  margin-right:10%
+}
+
+.Card {
+  width: 100px;
+  height: 150px;
+  margin: 10px;
+  text-align: center;
+}
+
+.Matched {
+    transform: rotateY(360deg);
+    transition: .60s;
+  
+}
+
+
